@@ -1,6 +1,6 @@
-# DarkTrawl · Cybersecurity Research & Tools
+# ReconOwls · Cybersecurity Research & Tools
 
-Welcome to **DarkTrawl** — an open-source initiative by [DarkTrawl] (Cybersecurity R&D Company) focused on building powerful, scalable tools for:
+Welcome to **ReconOwls** — an open-source initiative by [ReconOwls] (Cybersecurity R&D Company) focused on building powerful, scalable tools for:
 
 - 🌐 **Deep and Dark Web Monitoring**
 - 🕵️ **OSINT (Open Source Intelligence)**
@@ -12,7 +12,7 @@ Our mission is to empower cybersecurity analysts, researchers, and defenders wit
 
 ---
 
-## 🧠 Why DarkTrawl?
+## 🧠 Why ReconOwls?
 
 The surface web is just the beginning. We dive deeper.
 
